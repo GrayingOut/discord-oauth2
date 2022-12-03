@@ -11,7 +11,7 @@
   <name>discord-auth</name>
   <description>A simple discord-auth.</description>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>http://grayingout.repl.co</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
